@@ -1,4 +1,8 @@
-### Hi there 👋
+# Projects:
+
+## PySync DJ
+
+## Search on SoundCloud/Spotify Chrome Extensions Pack
 
 <!--
 **Peter-SB/Peter-SB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
