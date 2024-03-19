@@ -8,7 +8,7 @@
 <hr>
 <h1  align="center">🛠️ Projects</h2>
 
-## PySync DJ
+## [PySync DJ](https://github.com/Peter-SB/PySync-DJ)
 
 Download and sync Spotify playlists with your Serato or Rekordbox libraries. 2.0 OUT NOW
 
@@ -19,7 +19,7 @@ Download and sync Spotify playlists with your Serato or Rekordbox libraries. 2.0
  - GUID
  - Unit Tests
 
-## Search on SoundCloud/Spotify Chrome Extensions Pack
+## [Search on SoundCloud/Spotify Chrome Extensions Pack](https://github.com/Peter-SB/SoundCloud-Spotify-Quicksearch-Extension)
 
 Chrome extension that adds "Search on Spotify/Soundcloud" context menu options.
 
