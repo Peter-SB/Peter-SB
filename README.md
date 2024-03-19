@@ -1,4 +1,4 @@
-<a href="[https://www.linkedin.com/in/gkos/](https://www.linkedin.com/in/peter-semrau-boughton-29372215a)">
+<a href="https://www.linkedin.com/in/peter-semrau-boughton-29372215a">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
