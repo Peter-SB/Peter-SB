@@ -15,8 +15,8 @@ Download and sync Spotify playlists with your Serato or Rekordbox libraries. Thi
 ### Skills & Technologies
  - Python
  - Multiprocessing
- - APIs
- - GUID
+ - First Party API Interaction
+ - Documentation
  - Unit Tests
 
 ## [Tutorial Article: Comparing Minimal and Controller-Based APIs in ASP.NET Core](https://github.com/Peter-SB/Minimal-Vs-Controller-API-Article)
