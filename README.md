@@ -27,7 +27,7 @@ This tutorial article and accompanying project compares two approaches for build
 - ASP.NET Core
 - API Development
 - Entity Framework Core
-- SQLite (In-memory)
+- SQLite
 - Integration Testing
 
 ## [Search on SoundCloud/Spotify Chrome Extensions Pack](https://github.com/Peter-SB/SoundCloud-Spotify-Quicksearch-Extension)
