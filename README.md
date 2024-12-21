@@ -10,15 +10,15 @@
 
 ## [Go Chat App](https://github.com/Peter-SB/Go-Chat-App)
 
-A full-stack instant messaging application designed to showcase advanced backend development with Go and frontend integration with React. Includes detailed implementation of web security (e.g. CSRF protection, session management) and concurrency patterns (e.g. Goroutines and channels).
+A full-stack instant messaging application designed to showcase advanced backend development with Go and frontend integration with React. Includes detailed implementation of patterns and OOP approach to Go, web security (e.g. CSRF protection, session management) and concurrency patterns (e.g. Goroutines and channels).
 
 ### Skills & Technologies
  - Go
  - React (TypeScript)
  - MySQL
- - WebSockets
- - Docker Compose
- - Dependency Injection
+ - Docker
+ - Documentation of Patterns and OOP in Go
+ - Websockets 
  - Unit Testing
 
 ## [Tutorial Article: Comparing Minimal and Controller-Based APIs in ASP.NET Core](https://github.com/Peter-SB/Minimal-Vs-Controller-API-Article)
