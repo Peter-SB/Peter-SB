@@ -17,12 +17,12 @@ A full-stack instant messaging application designed to showcase advanced backend
  - React (TypeScript)
  - MySQL
  - Docker
- - Documentation of Patterns and OOP in Go
+ - Comprehensiveness Documentation of Patterns and OOP in Go
  - Websockets 
- - Unit Testing
+ - Testing Practices
 
 ## [Tutorial Article: Comparing Minimal and Controller-Based APIs in ASP.NET Core](https://github.com/Peter-SB/Minimal-Vs-Controller-API-Article)
-This tutorial article and accompanying project compares two approaches for building APIs in ASP.NET Core: Minimal APIs and Controller-Based APIs. Using a simple CRUD API example for managing songs and playlists, this article teaches you each approach and goes into some of the pros and cons of each method with an emphasis on how both approaches function and scale.
+This educational article and accompanying project compares two approaches for building APIs in ASP.NET Core: Minimal APIs and Controller-Based APIs. Using a simple CRUD API example for managing songs and playlists, this article teaches you each approach and goes into some of the pros and cons of each method with an emphasis on how both approaches function and scale.
 
 ### Skills & Technologies
 - C#
@@ -40,8 +40,7 @@ Download and sync Spotify playlists with your Serato or Rekordbox libraries. Thi
  - Python
  - Multiprocessing
  - First Party API Interaction
- - Documentation
- - Unit Tests
+ - Product Documentation
  - Github Actions CI/CD Pipeline
 
 ## [Search on SoundCloud/Spotify Chrome Extensions Pack](https://github.com/Peter-SB/SoundCloud-Spotify-Quicksearch-Extension)
