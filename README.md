@@ -39,7 +39,7 @@ Download and sync Spotify playlists with your Serato or Rekordbox libraries. Thi
 ### Skills & Technologies
  - Python
  - Multiprocessing
- - First Party API Interaction
+ - API Integration
  - Product Documentation
  - Github Actions CI/CD Pipeline
 
