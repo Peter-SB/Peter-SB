@@ -54,7 +54,16 @@ This educational article and accompanying project compares two approaches for bu
 - SQLite
 - Integration Testing
 
-## [PySync DJ](https://github.com/Peter-SB/PySync-DJ)
+## [PySync Hub](https://github.com/Peter-SB/PySync-Hub)
+
+This desktop app streamlines the laborious task of DJ library management, allowing users to download and sync Spotify and Soundcloud playlists with Rekordbox libraries utilising existing audio downloading libraries. This is a successor to PySync DJ.
+
+### Skills & Technologies
+ - Python - Flask
+ - React
+ - Electron
+
+## [PySync DJ](https://github.com/Peter-SB/PySync-DJ) (Deprecated)
 
 Download and sync Spotify playlists with your Serato or Rekordbox libraries. This tool massively streamlines DJ library management allowing effortless syncing of Spotify playlists to your DJ libraries, an otherwise often extremely tedious process.
 
