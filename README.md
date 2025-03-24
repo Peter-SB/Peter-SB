@@ -61,7 +61,8 @@ This desktop app streamlines the laborious task of DJ library management, allowi
 ### Skills & Technologies
  - Python - Flask
  - React
- - Electron
+ - Electron js
+ - Github Actions
 
 ## [PySync DJ](https://github.com/Peter-SB/PySync-DJ) (Deprecated)
 
