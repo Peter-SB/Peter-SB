@@ -59,10 +59,10 @@ This educational article and accompanying project compares two approaches for bu
 This desktop app streamlines the laborious task of DJ library management, allowing users to download and sync Spotify and Soundcloud playlists with Rekordbox libraries utilising existing audio downloading libraries. This is a successor to PySync DJ.
 
 ### Skills & Technologies
- - Python - Flask
- - React
- - Electron js
- - Github Actions
+ - Backend: Python (Flask), SQLite (SQLAlchemy)
+ - Frontend: React, React Query
+ - Distribution: Electron.js
+ - CI/CD: Github Actions
 
 ## [PySync DJ](https://github.com/Peter-SB/PySync-DJ) (Deprecated)
 
