@@ -61,7 +61,7 @@ This desktop app streamlines the laborious task of DJ library management, allowi
 
 ### Skills & Technologies
  - Backend: Python (Flask), SQLite (SQLAlchemy)
- - Frontend: React, React Query
+ - Frontend: React, React Query, Websockets
  - Distribution: Electron.js
  - CI/CD: Github Actions
 
