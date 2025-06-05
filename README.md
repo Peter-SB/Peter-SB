@@ -44,17 +44,6 @@ A full-stack instant messaging application designed to showcase advanced backend
  - Websockets 
  - Testing Practices
 
-## [Tutorial Article: Comparing Minimal and Controller-Based APIs in ASP.NET Core](https://github.com/Peter-SB/Minimal-Vs-Controller-API-Article)
-This educational article and accompanying project compares two approaches for building APIs in ASP.NET Core: Minimal APIs and Controller-Based APIs. Using a simple CRUD API example for managing songs and playlists, this article teaches you each approach and goes into some of the pros and cons of each method with an emphasis on how both approaches function and scale.
-
-### Skills & Technologies
-- C#
-- ASP.NET Core
-- API Development
-- Entity Framework Core
-- SQLite
-- Integration Testing
-
 ## [Agentic AI Instagram Scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)
 
 A self-hosted, low-code AI pipeline for scraping Instagram Reels and transforming them into structured, categorised data for research. Originally built to help organise travel recommendations from Reels, this project automates the process of extracting and storing useful information from video content (with optional transcription and agentic LLM-powered analysis).
@@ -66,6 +55,17 @@ A self-hosted, low-code AI pipeline for scraping Instagram Reels and transformin
 - LLM Integration (GPT-4.1-mini, Ollama experiments)  
 - Docker and Docker Compose    
 - Nginx Proxy Manager
+
+## [Tutorial Article: Comparing Minimal and Controller-Based APIs in ASP.NET Core](https://github.com/Peter-SB/Minimal-Vs-Controller-API-Article)
+This educational article and accompanying project compares two approaches for building APIs in ASP.NET Core: Minimal APIs and Controller-Based APIs. Using a simple CRUD API example for managing songs and playlists, this article teaches you each approach and goes into some of the pros and cons of each method with an emphasis on how both approaches function and scale.
+
+### Skills & Technologies
+- C#
+- ASP.NET Core
+- API Development
+- Entity Framework Core
+- SQLite
+- Integration Testing
 
 ## [PySync Hub](https://github.com/Peter-SB/PySync-Hub)
 
