@@ -55,6 +55,18 @@ This educational article and accompanying project compares two approaches for bu
 - SQLite
 - Integration Testing
 
+## [Agentic AI Instagram Scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)
+
+A self-hosted, low-code AI pipeline for scraping Instagram Reels and transforming them into structured, categorised data for research. Originally built to help organise travel recommendations from Reels, this project automates the process of extracting and storing useful information from video content (with optional transcription and agentic LLM-powered analysis).
+
+### Skills & Technologies  
+- n8n (low-code workflow automation)  
+- Python (Flask microservices, Instaloader)  
+- OpenAI Whisper (fast-whisper)  
+- LLM Integration (GPT-4.1-mini, Ollama experiments)  
+- Docker and Docker Compose    
+- Nginx Proxy Manager
+
 ## [PySync Hub](https://github.com/Peter-SB/PySync-Hub)
 
 This desktop app streamlines the laborious task of DJ library management, allowing users to download and sync Spotify and Soundcloud playlists with Rekordbox libraries utilising existing audio downloading libraries. This is a successor to PySync DJ.
