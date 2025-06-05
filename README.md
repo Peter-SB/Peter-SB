@@ -46,7 +46,7 @@ A full-stack instant messaging application designed to showcase advanced backend
 
 ## [Agentic AI Instagram Scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)
 
-A self-hosted, low-code AI pipeline for scraping Instagram Reels and transforming them into structured, categorised data for research. Originally built to help organise travel recommendations from Reels, this project automates the process of extracting and storing useful information from video content (with optional transcription and agentic LLM-powered analysis).
+A self-hosted, low-code AI pipeline for scraping Instagram Reels and transforming them into structured, categorised data for research. Originally built to help organise travel recommendations from Reels, this project automates the process of extracting and storing useful information from video content (including ai transcription and agentic LLM-powered analysis).
 
 ### Skills & Technologies  
 - n8n (low-code workflow automation)  
