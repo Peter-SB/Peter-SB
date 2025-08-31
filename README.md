@@ -77,7 +77,7 @@ This desktop app streamlines the laborious task of DJ library management, allowi
  - Distribution: Electron.js
  - CI/CD: Github Actions
 
-## [PySync DJ](https://github.com/Peter-SB/PySync-DJ) (Deprecated)
+## [PySync DJ](https://github.com/Peter-SB/PySync-DJ) (Deprecated For [PySync Hub](https://github.com/Peter-SB/PySync-Hub))
 
 Download and sync Spotify playlists with your Serato or Rekordbox libraries. This tool massively streamlines DJ library management allowing effortless syncing of Spotify playlists to your DJ libraries, an otherwise often extremely tedious process.
 
