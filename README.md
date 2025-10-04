@@ -88,6 +88,15 @@ Download and sync Spotify playlists with your Serato or Rekordbox libraries. Thi
  - Product Documentation
  - Github Actions CI/CD Pipeline
 
+## [Visualising My Spotify Library with Neo4j](https://github.com/Peter-SB/Neo4j-Spotify)
+
+Documented investigation into visualising my Spotify library as a graph using Neo4j graph database. This project demonstrates how mapping the relationships between tracks, playlists, and artists can reveal unique patterns, groupings, and insights. It also introduces some of the fundamentals of Neo4j, graph analysis, and some of the broader applications of graph technology.
+
+### Skills & Technologies
+- Neo4j (Graph Database, Cypher Query Language)
+- Data Visualisation (Gephi, Neo4j Desktop)
+- Python and Spotify API
+
 ## [Search on SoundCloud/Spotify Chrome Extensions Pack](https://github.com/Peter-SB/SoundCloud-Spotify-Quicksearch-Extension)
 
 Chrome extension that adds "Search on Spotify/Soundcloud" context menu options speeding up music browsing.
