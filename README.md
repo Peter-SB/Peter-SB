@@ -69,7 +69,7 @@ This educational article and accompanying project compares two approaches for bu
 
 ## [PySync Hub](https://github.com/Peter-SB/PySync-Hub)
 
-This desktop app streamlines the laborious task of DJ library management, allowing users to download and sync Spotify and Soundcloud playlists with Rekordbox libraries utilising existing audio downloading libraries. This is a successor to PySync DJ.
+This desktop app streamlines the laborious task of DJ library management, allowing users to download and sync Spotify, Soundcloud, and Youtube playlists with Rekordbox libraries utilising existing audio downloading libraries. This is a successor to PySync DJ.
 
 ### Skills & Technologies
  - Backend: Python (Flask), SQLite (SQLAlchemy)
