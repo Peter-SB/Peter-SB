@@ -88,6 +88,19 @@ Download and sync Spotify playlists with your Serato or Rekordbox libraries. Thi
  - Product Documentation
  - Github Actions CI/CD Pipeline
 
+## [Reddit Bookmark App](https://github.com/Peter-SB/reddit-bookmark-organiser-app)
+
+A mobile-first React Native app built with Expo to solve a real frustration: Reddit’s clunky saved posts system. With powerful search and filtering, offline-first storage, post customisation, and intelligent deduplication using MinHash. To push the experience further, I also integrated an AI-powered post summary feature with streamed responses (SSE) for a smooth, ChatGPT-like generation effect. The project explores practical AI integration in mobile apps, balancing UX, performance constraints, and architectural decisions, while also laying the groundwork for future semantic search and RAG capabilities.
+
+### Skills & Technologies
+
+- TypeScript, React Native + Expo
+- SQLite 
+- Server-Sent Events (SSE) for streamed LLM responses
+- AI Integration (OpenAI compatible APIs, local LLM experiments)
+- MinHash-based Deduplication
+- Offline-First Architecture
+
 ## [Visualising My Spotify Library with Neo4j](https://github.com/Peter-SB/Neo4j-Spotify)
 
 Documented investigation into visualising my Spotify library as a graph using Neo4j graph database. This project demonstrates how mapping the relationships between tracks, playlists, and artists can reveal unique patterns, groupings, and insights. It also introduces some of the fundamentals of Neo4j, graph analysis, and some of the broader applications of graph technology.
