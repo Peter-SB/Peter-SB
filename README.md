@@ -44,6 +44,15 @@ A full-stack instant messaging application designed to showcase advanced backend
  - Websockets 
  - Testing Practices
 
+## [RAG and Cloud Sync Service - Writeup Coming Soon]()
+A cloud sync service for my bookmark app with built-in RAG and semantic search. Data is synced via a FastAPI service connected to a PostgreSQL server. App data is backed up and processed through a vector embedding pipeline before being stored for semantic search and RAG.
+
+### Skills & Technologies
+- Vector embedding 
+- Postgres and vector stores
+- FastAI
+- Offline First Sync Strategies 
+
 ## [Agentic AI Instagram Scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)
 
 A self-hosted, low-code AI pipeline for scraping Instagram Reels and transforming them into structured, categorised data for research. Originally built to help organise travel recommendations from Reels, this project automates the process of extracting and storing useful information from video content (including ai transcription and agentic LLM-powered analysis).
@@ -76,10 +85,11 @@ This desktop app streamlines the laborious task of DJ library management, allowi
  - Frontend: React, React Query, Websockets
  - Distribution: Electron.js
  - CI/CD: Github Actions
+ - Machine Learning Algorithms 
 
 ## [PySync DJ](https://github.com/Peter-SB/PySync-DJ) (Deprecated For [PySync Hub](https://github.com/Peter-SB/PySync-Hub))
 
-Download and sync Spotify playlists with your Serato or Rekordbox libraries. This tool massively streamlines DJ library management allowing effortless syncing of Spotify playlists to your DJ libraries, an otherwise often extremely tedious process.
+Download and sync Spotify playlists with your Serato or Rekordbox libraries. This tool massively streamlines DJ library management, allowing effortless syncing of Spotify playlists to your DJ libraries, an otherwise often extremely tedious process.
 
 ### Skills & Technologies
  - Python
