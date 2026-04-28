@@ -44,13 +44,14 @@ A full-stack instant messaging application designed to showcase advanced backend
  - Websockets 
  - Testing Practices
 
-## [RAG and Cloud Sync Service - Writeup Coming Soon]()
-A cloud sync service for my bookmark app with built-in RAG and semantic search. Data is synced via a FastAPI service connected to a PostgreSQL server. App data is backed up and processed through a vector embedding pipeline before being stored for semantic search and RAG.
+## [Cloud Sync and RAG Service - Writeup Coming Soon]()
+A cloud sync service for my bookmark app with built-in RAG and semantic search. Data is synced via a FastAPI service connected to a PostgreSQL server with RabbitMQ acting as a message broker. App data is backed up and processed through a vector embedding pipeline before being stored for semantic search and RAG.
 
 ### Skills & Technologies
-- Vector embedding 
+- Vector embedding and retrieval pipeline
 - Postgres and vector stores
 - FastAI
+- RabbitMQ message broker
 - Offline First Sync Strategies 
 
 ## [Agentic AI Instagram Scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)
