@@ -31,6 +31,26 @@
 
 <h1  align="center">🛠️ Projects</h1>
 
+<h2  align="center">🏗️ Coming Soon!</h2>
+
+## [Distributed Event-Driven RAG Pipeline]() 
+
+This full production-ready project is an exercise in designing a distributed event-driven pipeline for scale, reliability, and maintainability. Built to sync documents/posts from a mobile app, synced posts trigger chunking, analysis, and embedding, enabling deep semantic search and retrieval-augmented generation (RAG). 
+
+The system is structured around a two-layer event/task loop. The event layer implements a pub/sub pattern for decoupled communication, while RabbitMQ acts as a task queue for asynchronous job processing, with custom-optimised worker logic.
+
+A three-layer (unit/integration/e2e) test suite drives a TDD design workflow, and full observability is provided with open telemetry. The project includes extensive documentation on architecture, design choices and best practices.
+
+### Skills & Technologies 
+
+- Event-Driven Architecture in Distributed Systems. 
+- Vector embedding and semantic retrieval pipeline 
+- FastAI/Postgres/RabbitMQ/Redpanda 
+- Production-grade testing and observability
+- In-depth, education-focused documentation
+
+<h2  align="center">👀 Read Now</h2>
+
 ## [Go Chat App](https://github.com/Peter-SB/Go-Chat-App)
 
 A full-stack instant messaging application designed to showcase advanced backend development with Go and frontend integration with React. Includes detailed implementation of patterns and OOP approach to Go, web security (e.g. CSRF protection, session management) and concurrency patterns (e.g. Goroutines and channels).
@@ -43,16 +63,6 @@ A full-stack instant messaging application designed to showcase advanced backend
  - Comprehensiveness Documentation of Patterns and OOP in Go
  - Websockets 
  - Testing Practices
-
-## [Cloud Sync and RAG Service - Writeup Coming Soon]()
-A cloud sync service for my bookmark app with built-in RAG and semantic search. Data is synced via a FastAPI service connected to a PostgreSQL server with RabbitMQ acting as a message broker. App data is backed up and processed through a vector embedding pipeline before being stored for semantic search and RAG.
-
-### Skills & Technologies
-- Vector embedding and retrieval pipeline
-- Postgres and vector stores
-- FastAI
-- RabbitMQ message broker
-- Offline First Sync Strategies 
 
 ## [Agentic AI Instagram Scraper](https://github.com/Peter-SB/n8n-ai-instagram-scraper)
 
@@ -120,6 +130,8 @@ Documented investigation into visualising my Spotify library as a graph using Ne
 - Neo4j (Graph Database, Cypher Query Language)
 - Data Visualisation (Gephi, Neo4j Desktop)
 - Python and Spotify API
+
+<h2  align="center">🏃 Smaller Projects</h2>
 
 ## [Search on SoundCloud/Spotify Chrome Extensions Pack](https://github.com/Peter-SB/SoundCloud-Spotify-Quicksearch-Extension)
 
