@@ -46,7 +46,7 @@ A three-layer (unit/integration/e2e) test suite drives a TDD design workflow, an
 - Event-Driven Architecture in Distributed Systems. 
 - Vector embedding and semantic retrieval pipeline 
 - FastAI/Postgres/RabbitMQ/Redpanda 
-- Production-grade testing and observability
+- Production-grade testing and observability (Opentelemetry LGTM)
 - In-depth, education-focused documentation
 
 <h2  align="center">👀 Read Now</h2>
